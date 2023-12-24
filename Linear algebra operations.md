@@ -50,4 +50,7 @@ chbase <- function(r, b1, b2) {
 ## Transform a vector *r*  to *r'* through a matrix *A*
 $$A = \begin{array}{cc} a &c \\ b &d \end{array} $$
 $$r = \begin{array}{} i \\ j \end{array}$$
-$$Ar = \begin{array}{} ai+bj \\ ci+dj \end{array}$$
+$$Ar = \begin{array}{} ai+bj \\ ci+dj \end{array} = \begin{array}{} r · [a,b] \\ r · [c,d] \end{array}$$
+```R
+r %*% A
+```
