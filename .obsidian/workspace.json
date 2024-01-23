@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7a438d2207988b6d",
+        "id": "f510031db9d80946",
         "type": "tabs",
         "children": [
           {
-            "id": "3d7ea5c3bc17e53c",
+            "id": "ec8290b946b0adde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear algebra operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7809ce4b11107139",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linalg_w4.md",
+                "file": "linear_algebra/Apples and bananas problem.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linalg_w4.md",
+                "file": "work/Nanopore/dorado_BAM_tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linalg_w4.md",
+                "file": "work/Nanopore/dorado_BAM_tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linalg_w4.md"
+                "file": "work/Nanopore/dorado_BAM_tags.md"
               }
             }
           }
@@ -159,13 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7809ce4b11107139",
+  "active": "bf2bfb679361d7df",
   "lastOpenFiles": [
-    "linalg_w4.md",
-    "Linear algebra operations.md",
-    "Pasted image 20231231151133.png",
-    "Identifying special matrices.md",
-    "Apples and bananas problem.md",
+    "work/Nanopore",
+    "work.md",
+    "work/Nanopore/dorado_BAM_tags.md",
+    "work",
+    "New Text Document.txt",
+    "linear_algebra/Apples and bananas problem.md",
+    "linear_algebra/Pasted image 20231231151133.png",
+    "linear_algebra",
+    "linear_algebra/Linear algebra operations.md",
+    "linear_algebra/linalg_w4.md",
+    "linear_algebra/Identifying special matrices.md",
     "LICENSE",
     "2023-12-24.md",
     "Untitled.canvas",
